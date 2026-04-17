@@ -1,7 +1,10 @@
 # BachRNN - Bach chorales
 Bach Chorales with RNN for Music Generation
 
-<img width="3264" height="3264" alt="bach_chorales" src="https://github.com/user-attachments/assets/89276b81-eb9b-473b-95d6-a9fab9a19f12" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/89276b81-eb9b-473b-95d6-a9fab9a19f12" width="45%" />
+  <img src="https://github.com/user-attachments/assets/082075ba-2b70-4da4-8216-6118912aed0d" width="45%" />
+</p>
 
 ### Project Overview
 
@@ -40,3 +43,5 @@ Here, the pitch - class distribution of the piece is compared with a shifted maj
 .midi file converter -> https://miditoolbox.com/player
 
 Google Magenta -> https://magenta.tensorflow.org/coconet
+
+midi library -> https://craffel.github.io/pretty-midi/instrument.html
