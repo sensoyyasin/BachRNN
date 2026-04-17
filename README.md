@@ -16,7 +16,7 @@ Bach Chorales with RNN for Music Generation
 
 This project focuses on analyzing and generating Bach-style chorales with rnn. I used the JSB Chorales dataset to study four-part harmony. And main idea is detecting the key of each chorale, and train an LSTM-based model to predict the next chord step by step. The goal of the project is to comine music theory and ai in a practical way. We analyze tonal structure with a classical music theory method. On the other side, we train a neural network to learn harmonic patterns and generate new chorale-like music.
 
-### Why this project and Alogrithm Explained?
+### Why this project and What is the algorithm?
 
 I did this project to understand how musical structure can be learned from data. Bach chorales are a very good dataset for this because they are harmonically rich.
 
