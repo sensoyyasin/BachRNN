@@ -42,6 +42,6 @@ Here, the pitch - class distribution of the piece is compared with a shifted maj
 
 .midi file converter -> https://miditoolbox.com/player
 
-Google Magenta -> https://magenta.tensorflow.org/coconet
+Google COCONET Magenta (the ML model that harmonizes melodies in a style of Bach chorales) -> https://magenta.tensorflow.org/coconet
 
 midi library -> https://craffel.github.io/pretty-midi/instrument.html
