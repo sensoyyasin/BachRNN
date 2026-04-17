@@ -37,4 +37,6 @@ Here, the pitch - class distribution of the piece is compared with a shifted maj
 
 <img width="744" height="633" alt="Ekran Resmi 2026-04-16 20 42 55" src="https://github.com/user-attachments/assets/a3524304-4126-44e9-b6f9-94ad5ef28443" />
 
+.midi file converter -> https://miditoolbox.com/player
+
 Google Magenta -> https://magenta.tensorflow.org/coconet
