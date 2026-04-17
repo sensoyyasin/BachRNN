@@ -2,8 +2,8 @@
 Bach Chorales with RNN for Music Generation
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/89276b81-eb9b-473b-95d6-a9fab9a19f12" width="45%" />
-  <img src="https://github.com/user-attachments/assets/082075ba-2b70-4da4-8216-6118912aed0d" width="45%" />
+  <img src="https://github.com/user-attachments/assets/89276b81-eb9b-473b-95d6-a9fab9a19f12" height="300"/>
+  <img src="https://github.com/user-attachments/assets/082075ba-2b70-4da4-8216-6118912aed0d" height="300"/>
 </p>
 
 ### Project Overview
